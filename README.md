@@ -1,6 +1,6 @@
-# streamer in a box, Deadlock edition
+# Cursed Apple, the Deadlock companion
 
-Records your Deadlock matches and cuts the highlights for you.
+Formerly streamer in a box. Records your Deadlock matches and cuts the highlights for you.
 
 **Download:** the newest `streamer-in-a-box-deadlock-setup.exe` is under
 [Releases](https://github.com/yoggin/streamer-in-a-box-deadlock/releases/latest).
